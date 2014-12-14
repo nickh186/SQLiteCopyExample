@@ -42,7 +42,7 @@ public class MainActivity extends ActionBarActivity implements ActivityDecorator
 		return super.onOptionsItemSelected(item);
 	}
 	
-	/* In this simple example application, the fragment functions will add the specified fragment to android.R.id.content.  A 
+	/* In this simple example application, the fragment functions will add the specified fragment to content frame layout.  A 
 	 * container 'pattern' can be adopted to allow use in a layout where there are fixed elements that are used in each screen/fragment
 	 * (status bar, time/date etc.)  */
 	
