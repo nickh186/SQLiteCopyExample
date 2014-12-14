@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteCopyExample</string>
+    <string name="action_about">About</string>
+    <string name="copy_text">Tap to copy the database of this package to the /sdcard/sqlite_db_copy/.</string>
+    <string name="copy">Copy</string>
+    
+    <string name="about_text">This application demonstrates copying a SQLite database from the private package directory to the sdcard.\nAuthor: Nicholas Hanna\nDate: December 14th, 2014</string>
+    
+
+</resources>
